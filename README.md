@@ -16,4 +16,8 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rodrigo-Andrade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 Quanto mais nos elevamos, menores parecemos aos olhos daqueles que não sabem voar. <small>(Friedrich Nietzsche)</small>
